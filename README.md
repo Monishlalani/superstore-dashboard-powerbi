@@ -9,3 +9,12 @@ In this project, i have made a intractive Power BI Sales Dashboard on super_stor
 
 
 ![super dashboard](https://user-images.githubusercontent.com/84577478/220322867-72fd65d1-10fd-4403-868c-227a40bb689b.jpg)
+
+
+
+## Author
+
+Monish Lalani
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-lalani/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishlalani12@gmail.com)  
